@@ -27,7 +27,7 @@ We're developing OTAF through **SFU's Charles Chang Institute incubator**, with 
 
 **Current stage:** a frontend prototype using sample data. Live availability integration and a support chatbot using trauma-informed language are planned.
 
-## Selected projects
+## My Projects
 
 ### [MyMaps — A personal map journal](https://github.com/dhara-patel-2354/My-maps)
 
