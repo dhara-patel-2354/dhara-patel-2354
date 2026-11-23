@@ -23,5 +23,4 @@
   </g>
   <path d="M44 321h76q24 0 24-20v-12q0-20 24-20h63q24 0 24 22v9q0 21 24 21h258" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7" class="route"/>
   <circle cx="44" cy="321" r="5" fill="#73f4cf"/><circle cx="251" cy="301" r="5" fill="#b9a5ff"/><circle cx="537" cy="321" r="5" fill="#ffb4a4"/>
-  <rect x="42" y="430" width="516" height="2" rx="1" fill="url(#accent)" opacity=".7"/>
 </svg>

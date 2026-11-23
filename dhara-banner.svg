@@ -71,6 +71,5 @@
       <circle cx="1131" cy="193" r="7" fill="#ffb4a4" stroke="none"/><circle cx="1131" cy="246" r="7" fill="#ffb4a4" stroke="none"/>
     </g>
     <g class="mono" font-size="14"><text x="1030" y="307" fill="#a89ac8">learn → build</text><text x="1030" y="327" fill="#8e9cb4">→ improve</text></g>
-    <rect x="65" y="395" width="1070" height="2" rx="1" fill="url(#accent)" opacity=".7"/>
   </g>
 </svg>
