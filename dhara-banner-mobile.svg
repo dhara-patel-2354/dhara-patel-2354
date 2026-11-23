@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="455" viewBox="0 0 600 455" role="img" aria-labelledby="title desc">
+  <title id="title">Dhara Patel — Android, applied ML, and social impact</title>
+  <desc id="desc">Mobile banner with a midnight background, mint, violet and coral accents, and an animated route joining three map points.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07121a"/><stop offset="1" stop-color="#1b122b"/></linearGradient>
+    <linearGradient id="accent"><stop stop-color="#73f4cf"/><stop offset=".52" stop-color="#a896ff"/><stop offset="1" stop-color="#ffa89a"/></linearGradient>
+    <pattern id="dots" width="25" height="25" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#c1d0ed" opacity=".12"/></pattern>
+  </defs>
+  <style>.sans{font-family:Arial,Helvetica,sans-serif}.route{stroke-dasharray:7 12;animation:flow 8s linear infinite}@keyframes flow{to{stroke-dashoffset:-190}}@media(prefers-reduced-motion:reduce){.route{animation:none}}</style>
+  <rect width="600" height="455" rx="24" fill="url(#bg)"/>
+  <rect x="20" y="20" width="560" height="415" rx="18" fill="url(#dots)"/>
+  <path d="M38 42h30M38 42v30M562 413h-30M562 413v-30" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7"/>
+  <g class="sans">
+    <text x="42" y="91" fill="#adbdd0" font-size="21" letter-spacing="2">CODE WITH A PURPOSE</text>
+    <text x="38" y="169" fill="#f3f5ff" font-size="67" font-weight="700" letter-spacing="-3">Dhara Patel<tspan fill="#73f4cf">.</tspan></text>
+    <text x="42" y="213" fill="#c2ccde" font-size="25">Android apps. Applied ML.</text>
+    <text x="42" y="248" fill="#c2ccde" font-size="25">Real problems.</text>
+    <text x="42" y="299" fill="#8af3d7" font-size="21" font-weight="700">MOBILE</text>
+    <text x="194" y="299" fill="#c9b9ff" font-size="21" font-weight="700">ML</text>
+    <text x="286" y="299" fill="#ffc0b5" font-size="21" font-weight="700">SOCIAL IMPACT</text>
+    <text x="42" y="366" fill="#b1bed1" font-size="23">SFU Computing Science</text>
+    <text x="42" y="399" fill="#b1bed1" font-size="23">Co-founder, TechAlong Labs</text>
+  </g>
+  <path d="M44 321h76q24 0 24-20v-12q0-20 24-20h63q24 0 24 22v9q0 21 24 21h258" fill="none" stroke="url(#accent)" stroke-width="2" opacity=".7" class="route"/>
+  <circle cx="44" cy="321" r="5" fill="#73f4cf"/><circle cx="251" cy="301" r="5" fill="#b9a5ff"/><circle cx="537" cy="321" r="5" fill="#ffb4a4"/>
+  <rect x="42" y="430" width="516" height="2" rx="1" fill="url(#accent)" opacity=".7"/>
+</svg>
