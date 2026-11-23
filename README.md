@@ -17,15 +17,15 @@ I'm a **Computing Science student at Simon Fraser University**, an Android devel
 
 **Co-founder & Software Developer · May 2026–Present**
 
-Co-founded an incorporated nonprofit developing technology to help people facing gender-based violence access support. I lead the development team behind **[OTAF](https://github.com/dhara-patel-2354/OTAF)**, a platform in development for transition-house availability and service information in BC.
+I co-founded TechAlong Labs, an incorporated nonprofit building technology to help people experiencing gender-based violence find support. I lead our development team on **[OTAF](https://github.com/dhara-patel-2354/OTAF)**, a platform we're building to bring together transition-house availability and service information in BC.
 
-- Translate outreach and feedback from transition-house staff and social service organizations into product requirements and development priorities.
-- Built separate public and staff dashboards using **React**, **React Router**, and the **Context API**, with shared application state across views.
-- Developed staff workflows for availability updates, population and service tags, and intake notes, including confirmation before status changes.
+- Turn conversations with transition-house staff and social service organizations into requirements and priorities for our development team.
+- Built public and staff dashboards in **React**, using **React Router** for navigation and the **Context API** to share state between views.
+- Added staff tools to update availability, record intake notes, and tag services and populations served, with a confirmation step before status changes.
 
-Our team is developing the project through **SFU's Charles Chang Institute incubator**, with feedback from transition-house staff and the Salvation Army.
+We're developing OTAF through **SFU's Charles Chang Institute incubator**, with feedback from transition-house staff and the Salvation Army.
 
-OTAF is in development. The public demo uses sample data; live availability integration and a support chatbot using trauma-informed language are planned.
+**Current stage:** a frontend prototype using sample data. Live availability integration and a support chatbot using trauma-informed language are planned.
 
 ## Selected projects
 
