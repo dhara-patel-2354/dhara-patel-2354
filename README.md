@@ -19,9 +19,9 @@ I'm a **Computing Science student at Simon Fraser University**, an Android devel
 
 I co-founded TechAlong Labs, an incorporated nonprofit building technology to help people experiencing gender-based violence find support. I lead our development team on **[OTAF](https://github.com/dhara-patel-2354/OTAF)**, a platform we're building to bring together transition-house availability and service information in BC.
 
-- Turn conversations with transition-house staff and social service organizations into requirements and priorities for our development team.
-- Built public and staff dashboards in **React**, using **React Router** for navigation and the **Context API** to share state between views.
-- Added staff tools to update availability, record intake notes, and tag services and populations served, with a confirmation step before status changes.
+- I talk with transition-house staff and social service organizations to understand what they need, then use their feedback to plan what we build next.
+- I built public and staff dashboards in **React**, using **React Router** for navigation and the **Context API** to share state between views.
+- I added tools for staff to update availability, record intake notes, and list each house’s services and who it supports. Staff confirm status changes before saving them.
 
 We're developing OTAF through **SFU's Charles Chang Institute incubator**, with feedback from transition-house staff and the Salvation Army.
 
