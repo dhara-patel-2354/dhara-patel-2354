@@ -5,25 +5,27 @@
 
 # Hi, I'm Dhara.
 
-I'm a **Computing Science student at Simon Fraser University**, an Android developer, and **Co-founder & Developer at TechAlong Labs**, where I lead our development team. I build mobile apps, explore how machine learning works under the hood, and care about making useful software understandable to the people using it.
+I'm a **Computing Science student at Simon Fraser University**, an Android developer, and **Co-founder & Software Developer at [TechAlong Labs](https://www.techalonglabs.com/)**, where I lead our development team. I build mobile apps, explore how machine learning works under the hood, and care about making useful software understandable to the people using it.
 
 **Open to internships in Android, software development, and applied ML.**
 
 [LinkedIn](https://www.linkedin.com/in/dhara-patel-234516236/) · [Email](mailto:ddp7@sfu.ca) · [Browse my repositories](https://github.com/dhara-patel-2354?tab=repositories)
 
-## Building with purpose
+## Experience
 
-### [OTAF — Transition-house availability platform](https://github.com/dhara-patel-2354/OTAF)
+### [TechAlong Labs](https://www.techalonglabs.com/)
 
-**TechAlong Labs · Development lead · In development**
+**Co-founder & Software Developer · May 2026–Present**
 
-Finding a transition house can mean contacting multiple organizations while availability changes. I'm leading development of a platform intended to bring availability and service information together for people seeking support in BC and the staff helping them.
+Co-founded an incorporated nonprofit developing technology to help people facing gender-based violence access support. I lead the development team behind **[OTAF](https://github.com/dhara-patel-2354/OTAF)**, a platform in development for transition-house availability and service information in BC.
 
-- Built separate public and worker interfaces in **React**, with shared state through the **Context API** and navigation through **React Router**.
-- Added staff workflows for availability updates, service and population tags, intake notes, and confirmation before status changes.
-- Gathered requirements through outreach to transition houses and social service organizations. Our team has received feedback from transition-house staff and the Salvation Army, and is developing the project through **SFU's Charles Chang Institute incubator**.
+- Translate outreach and feedback from transition-house staff and social service organizations into product requirements and development priorities.
+- Built separate public and staff dashboards using **React**, **React Router**, and the **Context API**, with shared application state across views.
+- Developed staff workflows for availability updates, population and service tags, and intake notes, including confirmation before status changes.
 
-The public demo uses sample data. Live availability integration and a support chatbot using trauma-informed language are planned.
+Our team is developing the project through **SFU's Charles Chang Institute incubator**, with feedback from transition-house staff and the Salvation Army.
+
+OTAF is in development. The public demo uses sample data; live availability integration and a support chatbot using trauma-informed language are planned.
 
 ## Selected projects
 
